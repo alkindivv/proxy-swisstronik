@@ -1,12 +1,12 @@
 # Swisstronik Tesnet Techinal Task 6 (Deploy Proxy)
 
-
+**use gitpod**
 
 
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/alkindivv/proxy-swisstronik.git]
+git clone https://github.com/alkindivv/proxy-swisstronik.git
 ```
 
 ```bash
