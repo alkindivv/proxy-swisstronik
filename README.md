@@ -1,6 +1,6 @@
 # Swisstronik Tesnet Techinal Task 6 (Deploy Proxy)
 
-## use gitpod
+## use Gitpod or directly from your local computer (linux/macOS) only
 
 
 ### 1. Clone Repository
