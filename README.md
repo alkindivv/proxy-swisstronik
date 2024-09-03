@@ -10,7 +10,7 @@ git clone https://github.com/alkindivv/proxy-swisstronik.git
 ```
 
 ```bash
-cd swisstronik-deploy-proxy
+cd proxy-swisstronik
 ```
 
 ### 2. Install Dependency
