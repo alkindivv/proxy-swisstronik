@@ -1,23 +1,12 @@
 # Swisstronik Tesnet Techinal Task 6 (Deploy Proxy)
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
 
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
-
-Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
-
-## Steps
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-proxy.git
+git clone [https://github.com/alkindivv/proxy-swisstronik.git]
 ```
 
 ```bash
@@ -90,18 +79,6 @@ npm run upgrade
 - Open tx-hash.txt file (location in utils folder)
 - Copy the transaction hash link and paste the address into testnet dashboard(Point3)
 - No need push to github
-
-by :
-
-github : [Mnuralim](https://github.com/Mnuralim)
-
-twitter : @Izzycracker04
-
-telegram : @fitriay19
-
-youtube : https://www.youtube.com/@IzzyTSN
-
-Ignore this!!!
 
 ```
 SWTRProxy = '0xea65D3f80d2253293a64e2f8DdF4CEC401823053'
